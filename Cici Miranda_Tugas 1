@@ -1,0 +1,85 @@
+Nama      : Cici Miranda
+Nim       : 062040830522
+No. Absen : 6
+
+1. Apa itu Git dan Kegunaannya ?
+   Jawaban
+      GIT adalah sebuah tools bagi para programmer dan developer yang berfungsi sebagai control system untuk menjalankan proyek pengembangan software. 
+    GIT adalah singkatan dari Group Inclusive Tour. Tujuan penggunaan GIT yakni untuk mengelola versi source code program dengan menentukan baris
+    serta kode yang akan ditambahkan atau diganti. 
+      Kegunaan dari Git sehingga membuat Git penting bagi penggunanya adalah Proyek pembuatan atau pengembangan apa pun itu (website, aplikasi)
+    pasti membutuhkan beberapa programmer dan developer secara bersamaan. Version control seperti Git adalah tools yang dapat membuat pekerjaan mereka tetap lancar. 
+    Dengan menyimpan secara otomatis semua perubahan yang ada, baik itu dari penambahan code, perubahan versi software, para developer tak perlu khawatir. 
+    Kegunaan Git berdasarkan fiturnya :
+    1). Kolaborasi – Anda bisa mengerjakan proyek yang sama dengan orang berbeda (kejra tim).
+    2). Open-source – Git adalah tool open-source yang bisa digunakan juga untuk membuat software open-source.
+    3). Mengorganisasi – Alih-alih menyimpan proyek Anda di folder seperti v1, v2, v3, dan seterusnya, 
+        Anda memiliki satu proyek dengan database khusus yang berisi semua versi file.
+    4). Fleksibilitas Platform – Ada beberapa layanan hosting Git yang tersedia saat ini, termasuk Gitlab, GitHub, Bitbucket, dan SourceForge. 
+        Lebih baik lagi, Anda dapat menggunakan solusi yang dihosting sendiri untuk semua proyek Anda.
+    5). Backup – Anda bisa kembali ke versi sebelumnya dengan mudah bila terjadi error atau kendala saat membuat versi terbaru.
+    
+2. Apa itu Github dan Kegunaannya ?
+   Jawaban
+      Github adalah website yang digunakan untuk menyimpan dan mengelola kode suatu project. Anda dapat membuat atau mengupload kode 
+   Anda ke server GitHub dan kemudian melakukan coding secara online. Hal tersebut dimungkinkan karena GitHub dibangun atas dua sistem utama, 
+   yaitu version control dan Git. Jadi, github itu adalah sebuah layanan cloud untuk menjalankan dan mengelola project.
+   Github di ibaratkan instagramnya para programmer, ini karena di dalam github kita bisa mendownload file, meletakan file atau project 
+   kita disana dalam bentuk source code, kita bisa ubah file yang kita buat,dan tentunya dapat diakses oleh pengguna lainnya.
+   Kegunaan dari Github :
+   1). Memudahkan Kolaborasi Pengerjaan Project
+       Dengan distributed version control, semua developer atau anggota tim bisa mengakses dan mengelola kode di satu tempat. 
+       Misalnya, melakukan review code bersama, diskusi perbaikan bug, dan sebagainya.
+   2). Mencegah Perubahan Kode yang Bisa Merusak Kode Asli
+       Dengan fitur Branch, Anda bisa membuat “cabang” dari kode utama project. Sehingga, Anda dapat melakukan perubahan pada kode
+       tersebut tanpa berefek langsung ke kode utama. Sangat berguna bila Anda ingin memperbaiki bug atau mencoba menambahkan fitur baru.
+   3). Sebagai Portofolio Bagi Developer
+       Di GitHub, Anda dapat mengatur project atau kode yang Anda kerjakan untuk ditampilkan secara publik. Hal ini akan menunjukkan 
+       kemampuan Anda sebagai seorang profesional.
+   
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut !
+   Jawaban
+   1). Repository - Database yang menyimpan history/riwayat perubahan
+   2). Snapshot - Potret kondisi file dan folder pada saat tertentu
+   3). Commit - Snapshot yang disimpan di repository
+   4). Branch - Serangkaian commi[t yang berkaitan sehingga kalau digambar seperti lurus berisi banyak commit.
+   5). Master - Nama branch default yang diberikan git pada waktu kita membuat repository. Branch master tidak istimewa. 
+       dia bisa dihapus dan direname sesuka hati.
+   6). Head - ujung branch, commit terbaru di dalam branch
+   7). HEAD - head yang sedang aktif. 
+   8). Working Folder - Folder berisi file dan folder tempat kita bekerja 
+   9). Staging Area - Snapshot dari working folder yang akan kita simpan pada saat commit.
+   10). Object Store - Ini adalah database tempat semua commit disimpan.
+   11). Merge - merge adalah penggabungan code antara branch 1 dengan branch yang lainnya.
+   12). Remote - remote adalah tempat penyimpanan di server git.
+   13). Fetch - fetch ini hampir sama seperti pull, fetch hanya mengambil perubahan tanpa merging kedalam branch yang aktif.
+   14). Pull - pull adalah menarik seluruh data perubahan yang telah dilakukan apabila kita tertinggal beberapa titik dibawah.
+   15). Push - push untuk menyimpan perubahan yang telah kita lakukan ke dalam sebuah repository yang berada di git server (remote)
+        istilahnya mah diupload lah kedalam sebuah repository.
+  
+4. Sebutkan layanan selain Github ?
+   Jawaban
+   1). Buddy
+   2). Bitbucket
+   3). Gogs
+   4). AWS CodeCommit
+   5). SourceForge
+   6). CodePlex 
+   7). GitBucket 
+   8). GitLab 
+   9). BeanStalk 
+   10). Google Cloud Source
+   11). Phabrator
+   12). Allura
+   13). Gitea
+   14). CodeGiant
+   15). Trac
+   
+   
+   
+   
+   
+   
+   
+   
+   
